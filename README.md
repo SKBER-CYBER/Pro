@@ -2,6 +2,6 @@ git clone https://github.com/SKBER-CYBER/Pro
 
 cd Pro
 
-python Pro.py
+python Skber.py
 
 # Pro
