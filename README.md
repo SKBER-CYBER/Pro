@@ -24,6 +24,6 @@ git clone https://github.com/SKBER-CYBER/Pro
 
 cd Pro
 
-python SKBER-CYBER.py
+python Skber.py
 
 # Pro
